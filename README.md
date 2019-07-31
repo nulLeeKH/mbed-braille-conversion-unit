@@ -3,7 +3,7 @@
 
 ## About
 
-Braille conversion device which developed by "Seoul Hardware Hackathon" in 2019.
+The braille conversion device which developed by "Seoul Hardware Hackathon" in 2019.
 
 ## H/W Spec
 
