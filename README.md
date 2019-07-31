@@ -3,7 +3,6 @@
 The braille conversion device which developed by "Seoul Hardware Hackathon" in 2019.
 
 ## H/W Spec
-
 - B-L475E-IOT01A Discovery Kit for IoT Node - STMicro × 1
 - SN74HC595N × 5
 - C503C-WAN-CBBDB231 * 5 × 6
@@ -12,7 +11,6 @@ The braille conversion device which developed by "Seoul Hardware Hackathon" in 2
 - MIC5504-3.3YM5 TR × 1
 
 ## Communication Protocol
-
 - Use 9600 baud standard serial connection.
 - In Braille, expressed as 0 and 1 counterclockwise from the point on the top left.
 - Each character is separated by ',' and is bound by '[' and ']'.
@@ -48,5 +46,4 @@ The braille conversion device which developed by "Seoul Hardware Hackathon" in 2
 ## Patch Note
 
 ### v1.0.0-alpha
-
 - Initial release
