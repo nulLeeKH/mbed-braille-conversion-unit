@@ -1,8 +1,5 @@
 
 # mbed-braille-conversion-unit
-
-## About
-
 The braille conversion device which developed by "Seoul Hardware Hackathon" in 2019.
 
 ## H/W Spec
