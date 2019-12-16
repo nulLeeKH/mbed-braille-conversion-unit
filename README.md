@@ -2,6 +2,10 @@
 # mbed-braille-conversion-unit
 The braille conversion device which developed by "Seoul Hardware Hackathon" in 2019.
 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![HitCount](http://hits.dwyl.io/nulLeeKH/mbed-braille-conversion-unit.svg)](http://hits.dwyl.io/nulLeeKH/mbed-braille-conversion-unit)
+![GitHub last commit](https://img.shields.io/github/last-commit/nulLeeKH/mbed-braille-conversion-unit.svg)
+
 ## H/W Spec
 - B-L475E-IOT01A Discovery Kit for IoT Node - STMicro × 1
 - SN74HC595N × 5
